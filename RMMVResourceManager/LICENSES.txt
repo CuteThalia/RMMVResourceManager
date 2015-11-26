@@ -1,6 +1,5 @@
 ﻿The following are the LICENSES of the libraries used within this application as well as the EULA/License to RMMVResourceManager:
 
-
 RPG Maker MV is a trademark,copyright,product owned by KADOWKAWA and published by Degica. I "Liquidize" do not claim any rights to the name, or to the product known as "RPG Maker MV" at all. This is
 a simple tool used to aid in game development using said product.
 
